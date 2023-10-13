@@ -1,5 +1,3 @@
-<a href="/datacamp/Data-Analysis/README.md"><img align="right" width="80" src="/logos/datacamp.png"></img></a>
-
 ## DataCamp - Data Analysis `45 case studies`
 
 <br><br>
